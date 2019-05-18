@@ -1,0 +1,2 @@
+# vqsmsoc
+remote control receptacle
