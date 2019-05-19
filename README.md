@@ -1,2 +1,2 @@
 # vqsmsoc
-remote control receptacle
+remote control convenience receptacle
